@@ -9,6 +9,6 @@ Repository = "https://github.com/bulldog68/ComfyUI_FMJ_SP"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "bulldog63"
+PublisherId = "bulldog68"
 DisplayName = "ComfyUI_FMJ_SP"
 Icon = ""
