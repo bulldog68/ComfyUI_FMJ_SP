@@ -1,0 +1,12 @@
+{
+  "title": "FMJ-Speed-Prompt",
+  "description": "Génère des prompts à partir de fichiers CSV — simple, rapide, stable.",
+  "author": "bulldog68",
+  "tags": ["prompt", "csv", "random", "FMJ"],
+  "license": "MIT",
+  "website": "https://github.com/TonPseudo/ComfyUI_FMJ_SP",
+  "repository": "https://github.com/bulldog68/ComfyUI_FMJ_SP",
+  "dependencies": [],
+  "install_type": "git",
+  "install_url": "https://github.com/TonPseudo/ComfyUI_FMJ_SP.git"
+}

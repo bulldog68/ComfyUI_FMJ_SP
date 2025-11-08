@@ -1,0 +1,14 @@
+[project]
+name = "Comfyui_FMJ_SP"
+description = "Generate random prompts easily for FMJ."
+version = "1.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/bulldog68/ComfyUI_FMJ_SP"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "bulldog63"
+DisplayName = "ComfyUI_FMJ_SP"
+Icon = ""

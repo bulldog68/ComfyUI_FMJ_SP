@@ -47,8 +47,6 @@ A simple and fast node to generate prompts from CSV files.
 
 Simply add a file to the folder .csv/.  
 It will automatically appear in the node.
-<img width="1067" height="1225" alt="Capture d’écran du 2025-11-08 17-28-53" src="https://github.com/user-attachments/assets/5e2c7813-d191-4a6b-9f67-941cf330b457" />
-
 
 "Note
 
