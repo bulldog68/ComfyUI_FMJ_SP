@@ -1,6 +1,8 @@
 # 🎯 FMJ-speed-Prompt — ComfyUI Node
 
 Un nœud simple et rapide pour générer des prompts à partir de fichiers CSV.
+<img width="1067" height="1225" alt="Capture d’écran du 2025-11-08 17-28-53" src="https://github.com/user-attachments/assets/7691b226-f8c8-40d2-84e0-5b799e7761a8" />
+
 
 ## ✨ Fonctionnalités
 
