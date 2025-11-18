@@ -1,5 +1,5 @@
 [project]
-name = "Comfyui_FMJ_SP"
+name = "ComfyUI_FMJ_SP"
 description = "Generate random prompts easily for FMJ."
 version = "1.0.3"
 license = { file = "LICENSE" }
