@@ -31,6 +31,6 @@
 "Tranformer le portrait en un origami fait de papier plie colore, vue de 3-4, pose sur un décor minimaliste."
 "Change ce dessin en une reelle photographie."
 "Tranforme le personage en simple figurine en plastique de couleur debout sur un socle. Fond bleu, lumieres et ombres douces."
-"head_swap: start with Picture 1 as the base image, keeping its lighting, environment, and background. remove the head from Picture 1 completely and replace it with the head from Picture 2. ensure the head and body have correct anatomical proportions, and blend the skin tones, shadows, and lighting naturally so the final result appears as one coherent, realistic person.
-"head_swap from Picture 1 to Picture 2."
+"head_swap: start with Picture 1 as the base image, keeping its lighting, environment, and background. remove the head from Picture 1 completely and replace it with the head from Picture 2. ensure the head and body have correct anatomical proportions, and blend the skin tones, shadows, and lighting naturally so the final result appears as one coherent, realistic person."
+"head_swap: from Picture 1 to Picture 2."
 "face_swap: start with Picture 1 as the base image, keeping its lighting, environment, and background. remove the face from Picture 1 completely and replace it with the face from Picture 2. ensure the head and body have correct anatomical proportions, and blend the skin tones, shadows, and lighting naturally so the final result appears as one coherent, realistic person."
