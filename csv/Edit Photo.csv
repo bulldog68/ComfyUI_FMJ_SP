@@ -36,9 +36,9 @@
 "head_swap: from Picture 1 to Picture 2."
 "face_swap: start with Picture 1 as the base image, keeping its lighting, environment, and background. remove the face from Picture 1 completely and replace it with the face from Picture 2. ensure the head and body have correct anatomical proportions, and blend the skin tones, shadows, and lighting naturally so the final result appears as one coherent, realistic person."
 "head_swap: Use image 1 as the base image, preserving its environment, background, camera perspective, framing, exposure, contrast, and lighting. Remove the head from image 1 and seamlessly replace it with the head from image 2.
-Match the original head size, face-to-body ratio, neck thickness, shoulder alignment, and camera distance so proportions remain matural and unchanged.
+Match the original head size, face-to-body ratio, neck thickness, shoulder alignment, and camera distance so proportions remain natural and unchanged.
 Adapt the inserted head to the lighting of image 1 by matching light direction, intensity, softness, color temperature, shadows, and highlights, with no independent relighting.
-Preserve the identity of image 2, including hair texture, eye color, nose structure, facial proportioms, and skin details.
+Preserve the identity of image 2, including hair texture, eye color, nose structure, facial proportions, and skin details.
 Match the pose and expression from image 1, including head tilt, rotation, eye direction, gaze, micro-expressions, and lip position.
 Ensure seamless neck and jaw blending, consistent skin tone, realistic shadow contact, natural skin texture, and uniform sharpness.
 Photorealistic, high quality, sharp details, 4K."
@@ -58,4 +58,5 @@ Remove blur, scratches, dirty stains, noise, stamp and fading.
 Enhancing details, sharpness, and natural textures.
 Realistic skin natural tones, natural eye and hair color and modern fabric colors for clothing.
 Realistic textures and realistic background making the sky and water look real.
+
 The final result should look like a modern, high-resolution sharp photo taken with a professional camera."
