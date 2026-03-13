@@ -10,7 +10,7 @@ Un nœud simple et rapide pour générer des prompts à partir de fichiers CSV.
 - Ajouter un texte externe
 - Randomiser les choix avec une seed
 - Catégories désactivées par défaut
-- Masquer les categorie inutiles
+- Masquer les categories inutiles
 - UI propre, stable, sans JavaScript
 
 ## 📥 Installation
