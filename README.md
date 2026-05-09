@@ -37,7 +37,6 @@ A simple and fast node to generate prompts from CSV files.
 - Add an external text
 - Randomize choices with a seed
 - Categories disabled by default
-- IU clean, stable, without JavaScript
 
 ## 📥Installation
 
