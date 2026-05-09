@@ -11,7 +11,6 @@ Un nœud simple et rapide pour générer des prompts à partir de fichiers CSV.
 - Randomiser les choix avec une seed
 - Catégories désactivées par défaut
 - Masquer les categories inutiles
-- UI propre, stable, sans JavaScript
 
 ## 📥 Installation
 
